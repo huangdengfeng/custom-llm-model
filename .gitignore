@@ -1,4 +1,3 @@
-HELP.md
 target/
 deepseek-ai/
 !.mvn/wrapper/maven-wrapper.jar
